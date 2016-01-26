@@ -1,0 +1,14 @@
+#inputBox 
+  width: 300px
+  height: 200px
+  font-family: arial
+  font-size: 15px
+  padding: 10px
+  border: 1px solid #C0C0C0
+
+#content 
+  text-align: left
+  margin-left: 600px
+
+#inputBox:focus 
+  outline:none
